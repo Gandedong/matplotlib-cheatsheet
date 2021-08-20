@@ -1,4 +1,4 @@
-## Brand new cheatsheets and handouts
+## Matplotlib速查表
 
 Sources now at https://github.com/matplotlib/cheatsheets 
 
